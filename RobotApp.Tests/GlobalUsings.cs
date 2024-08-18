@@ -1,0 +1,12 @@
+global using Xunit;
+global using System.Linq;
+global using LanguageExt;
+global using LanguageExt.Common;
+global using static LanguageExt.Prelude;
+global using LanguageExt.Effects;
+global using LanguageExt.Pipes;
+global using LanguageExt.Pretty;
+global using LanguageExt.UnsafeValueAccess;
+global using static LanguageExt.List;
+global using LanguageExt.UnitTesting;
+global using RobotApp;
